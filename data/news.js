@@ -2,12 +2,12 @@ export const news = [
   {
     id: 12,
     category: "update",
-    title: "网站更新：BOH网站Beta4",
+    title: "网站更新：BOH网站Beta3.1",
     excerpt: "网站更新，实时信息来临。",
     date: "2026-01-09",
     author: "blockofhome",
     image:
-      'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOHBeta3</text></svg>',
+      'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOHBeta3.1</text></svg>',
     content: `
               <p><strong>2026/1/08</strong>，方块之家网站页面重构</p>
               <ul>
@@ -16,7 +16,7 @@ export const news = [
                   <li><strong>个人中心</strong>：重构，优化了个人中心体验。</li>
                   <li><strong>新内容</strong>：BOH BAG上架。</li>
               </ul>
-              <p>网站性能再优化，删除了繁琐的内容。为大家带来更好的使用体验！</p>
+              <p>网站性能再优化，删除了繁琐的内容。信息通过托管文件，可以支持快速实时响应！</p>
           `,
   },
   {

@@ -6,7 +6,7 @@ export const users = [
     tags: ["管理员", "统筹者"],
     role: "admin",
     points: 1000,
-    addresses: []
+    addresses: [],
   },
   {
     username: "LF",
@@ -14,8 +14,8 @@ export const users = [
     joinDate: "2018-07-21",
     tags: ["很有梗", "鬼点子生成中", "元老级", "放肆", "人气带动"],
     role: "user",
-    points: 500,
-    addresses: []
+    points: 10,
+    addresses: [],
   },
   {
     username: "小牛无聊",
@@ -23,8 +23,8 @@ export const users = [
     joinDate: "2018-07-21",
     tags: ["建筑大神", "pvp大神", "指令大神", "红石大神", "手工大神", "元老级"],
     role: "user",
-    points: 800,
-    addresses: []
+    points: 200,
+    addresses: [],
   },
   {
     username: "雨芙蕖喵",
@@ -32,9 +32,8 @@ export const users = [
     joinDate: "2025-08-27",
     tags: ["氛围组", "很有梗", "牛牛派", "熬夜大神（曾经）", "找茬"],
     role: "user",
-    points: 300,
-    addresses: [
-    ]
+    points: 0,
+    addresses: [],
   },
   {
     username: "Ryyik",
@@ -42,8 +41,8 @@ export const users = [
     joinDate: "2018-07-21",
     tags: ["鬼点子神生成", "摄影视频爱好者", "羽毛球", "策划者", "元老级"],
     role: "user",
-    points: 600,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "Endgalaxy",
@@ -51,8 +50,8 @@ export const users = [
     joinDate: "2018-07-21",
     tags: ["游戏大神", "技术在线", "元老级", "Ryyik最严厉的父亲"],
     role: "user",
-    points: 550,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "chengzi",
@@ -60,8 +59,8 @@ export const users = [
     joinDate: "2018-07-21",
     tags: ["休闲玩家", "元老级"],
     role: "user",
-    points: 400,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "CELLINIA",
@@ -69,8 +68,8 @@ export const users = [
     joinDate: "2023-09-16",
     tags: ["老师", "文学", "ow大王"],
     role: "user",
-    points: 450,
-    addresses: []
+    points: s0,
+    addresses: [],
   },
   {
     username: "lzaQ",
@@ -78,8 +77,8 @@ export const users = [
     joinDate: "2022-02-12",
     tags: ["跑酷大神", "呆", "音游"],
     role: "user",
-    points: 350,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "Eleven",
@@ -87,8 +86,8 @@ export const users = [
     joinDate: "2022-02-12",
     tags: ["跑酷大神", "pvp大神", "游戏黑洞", "凯影", "铁男"],
     role: "user",
-    points: 320,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "HYP",
@@ -96,8 +95,8 @@ export const users = [
     joinDate: "2019-07-21",
     tags: ["技术流", "暖场", "氛围组", "eleven慈父", "元老级"],
     role: "user",
-    points: 580,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "LiulanTuT",
@@ -105,8 +104,8 @@ export const users = [
     joinDate: "2025-08-29",
     tags: ["pvp大神", "LF粉丝团"],
     role: "user",
-    points: 200,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "DRWEKS",
@@ -114,8 +113,8 @@ export const users = [
     joinDate: "2025-09-06",
     tags: ["建筑大神"],
     role: "user",
-    points: 250,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "hamburger",
@@ -123,8 +122,8 @@ export const users = [
     joinDate: "2022-01-01",
     tags: ["pvp大神", "整活", "eleven最严厉的父亲"],
     role: "user",
-    points: 420,
-    addresses: []
+    points: 0,
+    addresses: [],
   },
   {
     username: "MrXue_",
@@ -132,7 +131,7 @@ export const users = [
     joinDate: "2025-11-27",
     tags: ["方块之家新人"],
     role: "user",
-    points: 100,
-    addresses: []
-  }
+    points: 0,
+    addresses: [],
+  },
 ];

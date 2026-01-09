@@ -2,11 +2,12 @@ export const news = [
   {
     id: 12,
     category: "update",
-    title: "网站更新：BOH网站Beta3",
-    excerpt: "网站更新，页面重构",
-    date: "2026-01-08",
+    title: "网站更新：BOH网站Beta4",
+    excerpt: "网站更新，实时信息来临。",
+    date: "2026-01-09",
     author: "blockofhome",
-    image: 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOHBeta3</text></svg>',
+    image:
+      'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOHBeta3</text></svg>',
     content: `
               <p><strong>2026/1/08</strong>，方块之家网站页面重构</p>
               <ul>
@@ -16,7 +17,7 @@ export const news = [
                   <li><strong>新内容</strong>：BOH BAG上架。</li>
               </ul>
               <p>网站性能再优化，删除了繁琐的内容。为大家带来更好的使用体验！</p>
-          `
+          `,
   },
   {
     id: 11,
@@ -25,7 +26,8 @@ export const news = [
     excerpt: "网站更新，全新的UI和全新的活动面板，商城面板",
     date: "2026-01-06",
     author: "blockofhome",
-    image: 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOH网站Beta2</text></svg>',
+    image:
+      'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background-color:white"><text x="50%" y="50%" font-size="48" text-anchor="middle" dominant-baseline="middle" fill="black">BOH网站Beta2</text></svg>',
     content: `
               <p><strong>2026/1/6</strong>，方块之家网站迎来重大更新！</p>
               <ul>
@@ -35,7 +37,7 @@ export const news = [
                   <li><strong>新内容</strong>：BOH BAG上架。</li>
               </ul>
               <p>网站性能再优化，删除了繁琐的内容。为大家带来更好的使用体验！</p>
-          `
+          `,
   },
   {
     id: 8,
@@ -54,13 +56,14 @@ export const news = [
                   <li>黑白和小牛携手共建。</li>
               </ul>
               <p>感谢Everyone的参与！QA完美进行！</p>
-          `
+          `,
   },
   {
     id: 6,
     category: "update",
     title: "官网重大更新：新增多项功能与UI优化",
-    excerpt: "2025年12月7日，方块之家官网进行重大更新，新增了服务、健康支持和MBTI功能，UI界面焕然一新。",
+    excerpt:
+      "2025年12月7日，方块之家官网进行重大更新，新增了服务、健康支持和MBTI功能，UI界面焕然一新。",
     date: "2025-12-07",
     author: "blockofhome",
     image: "/assets/images/Apple.png",
@@ -73,13 +76,14 @@ export const news = [
                   <li><strong>UI界面优化</strong>：整体界面焕然一新，提升用户体验</li>
               </ul>
               <p>感谢开发团队的辛勤付出，为大家带来更好的使用体验！</p>
-          `
+          `,
   },
   {
     id: 1,
     category: "event",
     title: "方块之家7周年庆典圆满落幕",
-    excerpt: "2025年7月21日，方块之家迎来了7周年生日，大家共同参与小牛特别制作回忆地图。",
+    excerpt:
+      "2025年7月21日，方块之家迎来了7周年生日，大家共同参与小牛特别制作回忆地图。",
     date: "2025-07-21",
     author: "Ryyik",
     image: "/assets/images/2025-7years.png",
@@ -92,13 +96,14 @@ export const news = [
                   <li>大合照环节，纪念册封面由此诞生</li>
               </ul>
               <p>感谢每一位参与的玩家，方块之家因你们而精彩！</p>
-          `
+          `,
   },
   {
     id: 2,
     category: "announce",
     title: "官网登录功能正式上线公告",
-    excerpt: "方块之家官网个人功能于2025年11月13日上线，所有在12月25日前注册的用户都将收到年终回顾...",
+    excerpt:
+      "方块之家官网个人功能于2025年11月13日上线，所有在12月25日前注册的用户都将收到年终回顾...",
     date: "2025-11-13",
     author: "LF",
     image: "/assets/images/Writable_Book.png",
@@ -112,13 +117,14 @@ export const news = [
                   <li>💌 来自运营团队的私人寄语</li>
               </ul>
               <p>获取方式：登录官网 → 进入个人页面即可查看。</p>
-          `
+          `,
   },
   {
     id: 3,
     category: "update",
     title: "冬季方块街更新：粒子效果与NPC系统",
-    excerpt: "2025年冬季特别版本中加入全新粒子特效，并新增了互动NPC，还有神秘地图内容...",
+    excerpt:
+      "2025年冬季特别版本中加入全新粒子特效，并新增了互动NPC，还有神秘地图内容...",
     date: "2025-11-15",
     author: "小牛无聊",
     image: "/assets/images/main3.png",
@@ -131,13 +137,14 @@ export const news = [
                   <li><strong>建筑扩展</strong>新增我和黑白特别制作的内容。</li>
               </ul>
               <p>感谢<b>小牛无聊</b>和<b>黑白</b>的辛苦建设！</p>
-          `
+          `,
   },
   {
     id: 4,
     category: "community",
     title: "新成员雨芙蕖喵正式加入方块之家",
-    excerpt: "欢迎新成员雨芙蕖喵于2025年8月27日加入方块之家大家庭，亮相方块街...",
+    excerpt:
+      "欢迎新成员雨芙蕖喵于2025年8月27日加入方块之家大家庭，亮相方块街...",
     date: "2025-08-27",
     author: "blockofhome",
     image: "/assets/images/qiuqian.PNG",
@@ -146,13 +153,14 @@ export const news = [
               <p>入群日期：<strong>2025年8月27日</strong></p>
               <p>初始称号：<i>氛围组、很有梗、牛牛派</i></p>
               <p>雨芙蕖喵擅长氛围营造，期待她未来带来精彩作品！</p>
-          `
+          `,
   },
   {
     id: 5,
     category: "event",
     title: "2025/12/5特别活动",
-    excerpt: "方块之家首次举办礼物交换活动，玩家将随机抽签决定交换对象，方块街和圣诞小镇特别活动...",
+    excerpt:
+      "方块之家首次举办礼物交换活动，玩家将随机抽签决定交换对象，方块街和圣诞小镇特别活动...",
     date: "2025-12-05",
     author: "LF",
     image: "/assets/images/2024-newyears.png",
@@ -166,13 +174,14 @@ export const news = [
                   <li>准备价值30-50元的礼物（实体或虚拟）</li>
               </ul>
               <p>目前已有6名玩家报名，快来参与吧！</p>
-          `
+          `,
   },
   {
     id: 9,
     category: "update",
     title: "官网周边商城上线：纪念册与明信片等多项内容上线",
-    excerpt: "方块之家周边商城正式上线，首批商品包括7周年纪念册、明信片套装等，所有周边均可免费获取...",
+    excerpt:
+      "方块之家周边商城正式上线，首批商品包括7周年纪念册、明信片套装等，所有周边均可免费获取...",
     date: "2025-11-20",
     author: "Ryyik",
     image: "/assets/images/Commemorative-album.PNG",
@@ -187,7 +196,7 @@ export const news = [
               </ul>
               <p><b>获取方式</b>：所有周边均可通过活动抽奖或免费获取，仅需支付邮费。</p>
               <p>详情查看：<a href="shop.html" target="_blank">周边商城</a></p>
-          `
+          `,
   },
   {
     id: 7,
@@ -206,6 +215,6 @@ export const news = [
                   <li><b>官网功能升级</b>：未来官网会加入更多新功能</li>
               </ol>
               <p>更多细节将在2026公布。欢迎成员提出建议！</p>
-          `
-  }
+          `,
+  },
 ];

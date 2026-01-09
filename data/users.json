@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "password": "password1",
+    "joinDate": "2022-07-21",
+    "role": "user",
+    "tags": ["活跃用户", "内容创作者"]
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "password": "password2",
+    "joinDate": "2023-05-15",
+    "role": "user",
+    "tags": ["活跃用户"]
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "password": "admin123",
+    "joinDate": "2020-01-01",
+    "role": "admin",
+    "tags": ["管理员", "创始人"]
+  },
+  {
+    "id": 4,
+    "username": "user3",
+    "password": "password3",
+    "joinDate": "2024-09-30",
+    "role": "user",
+    "tags": ["新用户"]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "points": 1000,
+    "last_updated": "2026-01-09",
+    "history": [
+      {
+        "date": "2026-01-08",
+        "points": 500,
+        "description": "参与7周年庆典活动"
+      },
+      {
+        "date": "2026-01-07",
+        "points": 300,
+        "description": "发布优质内容"
+      },
+      {
+        "date": "2026-01-06",
+        "points": 200,
+        "description": "日常登录"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "points": 850,
+    "last_updated": "2026-01-09",
+    "history": [
+      {
+        "date": "2026-01-08",
+        "points": 400,
+        "description": "参与7周年庆典活动"
+      },
+      {
+        "date": "2026-01-07",
+        "points": 250,
+        "description": "发布优质内容"
+      },
+      {
+        "date": "2026-01-06",
+        "points": 200,
+        "description": "日常登录"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "points": 5000,
+    "last_updated": "2026-01-09",
+    "history": [
+      {
+        "date": "2026-01-08",
+        "points": 2000,
+        "description": "管理员奖励"
+      },
+      {
+        "date": "2026-01-07",
+        "points": 1500,
+        "description": "网站维护贡献"
+      },
+      {
+        "date": "2026-01-06",
+        "points": 1500,
+        "description": "内容创作"
+      }
+    ]
+  }
+]
